@@ -1,0 +1,9 @@
+{
+  "sports": [
+    {
+      "id": 1,
+      "sportsname": "Badminton",
+      "price": 500
+    }
+  ]
+}
